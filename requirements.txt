@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow
+scikit-learn
+plotly
+tqdm
+pyarrow
+kaleido
